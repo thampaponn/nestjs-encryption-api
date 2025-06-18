@@ -6,7 +6,7 @@ git clone https://github.com/thampaponn/nestjs-encryption-api.git
 cd nestjs-encryption-api
 ```
 
-## Project setup (Using VSCode Terminal)
+## Project setup
 
 ```bash
 $ npm install
