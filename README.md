@@ -1,3 +1,9 @@
+## Prerequisite
+
+- Git
+- Node.js (v22.16.0 and above)
+- npm
+
 ## Clone project using CMD (Windows) or Terminal (Linux/MacOS)
 
 ```bash
