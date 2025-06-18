@@ -7,9 +7,9 @@
 ## Clone project using CMD (Windows) or Terminal (Linux/MacOS)
 
 ```bash
-git clone https://github.com/thampaponn/nestjs-encryption-api.git
+$ git clone https://github.com/thampaponn/nestjs-encryption-api.git
 
-cd nestjs-encryption-api
+$ cd nestjs-encryption-api
 ```
 
 ## Project setup
