@@ -1,4 +1,4 @@
-## Clone project
+## Clone project (Using CMD (Windows) or Terminal (Linux/MacOS))
 
 ```bash
 git clone https://github.com/thampaponn/nestjs-encryption-api.git
