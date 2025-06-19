@@ -24,7 +24,7 @@ $ npm install
 $ npm run start
 
 ```
-[Open API Docs](http://localhost:3000/api-docs)
+Open API Docs [localhost:3000/api-docs](http://localhost:3000/api-docs)
 
 ## Run unit tests
 
